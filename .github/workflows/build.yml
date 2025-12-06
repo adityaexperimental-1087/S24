@@ -1,4 +1,4 @@
-name: Build
+name: Build Ass ROM for ass21fe
 
 on:
   workflow_dispatch:
